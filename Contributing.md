@@ -1,4 +1,4 @@
-# Contributing to Auth0 projects
+# Contributing to drgatoxd projects
 
 A big welcome and thank you for considering contributing to Auth0 open source projects! It’s people like you that make it a reality for users in our community.
 
@@ -6,7 +6,7 @@ Reading and following these guidelines will help us make the contribution proces
 
 ## Quicklinks
 
-- [Contributing to Auth0 projects](#contributing-to-auth0-projects)
+- [Contributing to drgatoxd projects](#contributing-to-drgatoxd-projects)
   - [Quicklinks](#quicklinks)
   - [Code of Conduct](#code-of-conduct)
   - [Getting Started](#getting-started)
