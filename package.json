@@ -1,11 +1,11 @@
 {
-  "name": "disconomy",
+  "name": "dc-economy",
   "version": "1.0.0",
   "description": "Crea un sistema de economía por servidor para tu bot de discord.js",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/drgatoxd/disconomy.git"
+    "url": "https://github.com/drgatoxd/dc-economy.git"
   },
   "scripts": {
     "compile": "tsc"
@@ -25,7 +25,7 @@
     "typescript": "^4.7.4"
   },
   "dependencies": {
-    "djs13": "npm:discord.js@13.10.2",
+    "discord.js": "13.9.x",
     "mongoose": "^6.5.1",
     "readme-md-generator": "^1.0.0"
   }
