@@ -34,7 +34,7 @@ npm install disconomy
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/drgatoxd/disconomy/issues). You can also take a look at the [contributing guide](https://github.com/drgatoxd/disconomy/blob/main/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/drgatoxd/disconomy/issues). You can also take a look at the [contributing guide](https://github.com/drgatoxd/disconomy/blob/main/Contributing.md).
 
 ## Show your support
 
