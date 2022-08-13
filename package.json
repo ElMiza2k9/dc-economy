@@ -1,27 +1,31 @@
 {
-	"name": "disconomy",
-	"version": "1.0.0",
-	"description": "Crea un sistema de economía por servidor para tu bot de discord.js",
-	"main": "dist/index.js",
-	"scripts": {
-		"compile": "tsc"
-	},
-	"keywords": [
-		"economy",
-		"discord.js",
-		"discord",
-		"bot",
-		"economía"
-	],
-	"author": "drgatoxd",
-	"license": "MIT",
-	"devDependencies": {
-		"prettier": "^2.7.1",
-		"tsconfig-paths": "^4.1.0",
-		"typescript": "^4.7.4"
-	},
-	"dependencies": {
-		"djs13": "npm:discord.js@13.10.2",
-		"mongoose": "^6.5.1"
-	}
+  "name": "disconomy",
+  "version": "1.0.0",
+  "description": "Crea un sistema de economía por servidor para tu bot de discord.js",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drgatoxd/disconomy.git"
+  },
+  "scripts": {
+    "compile": "tsc"
+  },
+  "keywords": [
+    "economy",
+    "discord.js",
+    "discord",
+    "bot",
+    "economía"
+  ],
+  "author": "drgatoxd",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "tsconfig-paths": "^4.1.0",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "djs13": "npm:discord.js@13.10.2",
+    "mongoose": "^6.5.1"
+  }
 }
