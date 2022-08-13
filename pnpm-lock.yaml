@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  djs13: npm:discord.js@13.10.2
+  discord.js: 13.9.x
   mongoose: ^6.5.1
   prettier: ^2.7.1
   readme-md-generator: ^1.0.0
@@ -9,7 +9,7 @@ specifiers:
   typescript: ^4.7.4
 
 dependencies:
-  djs13: /discord.js/13.10.2
+  discord.js: 13.9.2
   mongoose: 6.5.1
   readme-md-generator: 1.0.0
 
@@ -335,8 +335,8 @@ packages:
     resolution: {integrity: sha512-bz/NDyG0KBo/tY14vSkrwQ/n3HKPf87a0WFW/1M9+tXYK+vp5Z5EksawfCWo2zkAc6o7CClc0eff1Pjrqznlwg==}
     dev: false
 
-  /discord.js/13.10.2:
-    resolution: {integrity: sha512-zPhPaUvJRCqmsqMBmQ8gJ8k/O0rcuLj8tn/mOaJEiDPkpb5aFULHarOfqND6jRuLrKXd2to/bc0mjXTOgRW1MA==}
+  /discord.js/13.9.2:
+    resolution: {integrity: sha512-wShFlyAyxgQcWzINeufUoT1U0fmju+pPCRzPfJB7CaA0V1tQHc4e0PpO4NQif8sLfZvrQmEILBaIJ0G5I32OxQ==}
     engines: {node: '>=16.6.0', npm: '>=7.0.0'}
     dependencies:
       '@discordjs/builders': 0.16.0

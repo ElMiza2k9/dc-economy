@@ -1,7 +1,7 @@
 import { Item, ShopModel } from '../schemas/Shop';
 import type { MongooseDocument } from './Inventory';
 import { createId } from '../util/crypto';
-import type { GuildMemberRoleManager } from 'djs13';
+import type { GuildMemberRoleManager } from 'discord.js';
 import { Inventory } from './Inventory';
 import { Economy } from './Economy';
 
