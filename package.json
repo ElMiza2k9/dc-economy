@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "djs13": "npm:discord.js@13.10.2",
-    "mongoose": "^6.5.1"
+    "mongoose": "^6.5.1",
+    "readme-md-generator": "^1.0.0"
   }
 }
